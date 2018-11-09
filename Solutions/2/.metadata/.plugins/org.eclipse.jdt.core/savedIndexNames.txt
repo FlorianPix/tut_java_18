@@ -1,0 +1,5 @@
+INDEX VERSION 1.130+C:\Users\flori\Documents\Wichtig\Studium\18-19 WiSe\TUT JAVA\Aufgaben\Lösungen 2\.metadata\.plugins\org.eclipse.jdt.core
+55254152.index
+1828026965.index
+452120218.index
+28896780.index

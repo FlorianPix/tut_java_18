@@ -1,0 +1,37 @@
+public class Student {
+	String name, studiengang, geburtsdatum;
+	
+	public Student(String name, String studiengang, String geburtsdatum){
+		this.name = name;
+		this.studiengang = studiengang;
+		this.geburtsdatum = geburtsdatum;
+	}
+
+	public String getName() {
+		return name;
+	}
+	
+	public void setName(String name) {
+		this.name = name;
+	}
+	
+	public String getStudiengang() {
+		return studiengang;
+	}
+
+	public void setStudiengang(String studiengang) {
+		this.studiengang = studiengang;
+	}
+
+	public String getGeburtsdatum() {
+		return geburtsdatum;
+	}
+
+	public void setGeburtsdatum(String geburtsdatum) {
+		this.geburtsdatum = geburtsdatum;
+	}
+
+	public String toString(){
+		return name + " " + geburtsdatum;
+	}
+}	

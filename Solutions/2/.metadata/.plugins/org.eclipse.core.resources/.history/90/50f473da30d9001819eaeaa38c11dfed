@@ -1,0 +1,26 @@
+
+public class Library {
+	public static void main(String[] args) {
+		Book[] dorfBibliothek = new Book[10];
+		
+		Book book1 = new Book("Der Richter und sein Hencker", "12032024ASDF");
+		Book book2 = new Book("Dr. Jekyll und Mr Hide", "127812598ASLÖSAFJL");
+		Book book3 = new Book("Der Fänger im Rogen", "12ß9u91509asfjasfasfo");
+		
+		for(int i = 0; i <= 2; i++) {
+			dorfBibliothek[i] = book1; 
+		}
+		
+		for(int i = 3; i <= 5; i++) {
+			dorfBibliothek[i] = book2; 
+		}
+		
+		for(int i = 6; i <= 9; i++) {
+			dorfBibliothek[i] = book3; 
+		}
+		
+		for(int i = 0; i <= 9; i++) {
+			System.out.println(dorfBibliothek[i]);
+		}	 
+	}
+}

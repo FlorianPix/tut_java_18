@@ -1,0 +1,9 @@
+import java.util.Scanner;
+
+public class temperatur {
+	public static void main(String[] args) {
+		Scanner input = new Scanner(System.in);
+		int celsius = input.nextInt();
+		System.out.println(celsius * 1.8 + 32);
+	}
+}
