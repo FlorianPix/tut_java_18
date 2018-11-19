@@ -1,4 +1,4 @@
-# TUT-JAVA 2018 Florian Pix
+# Programmierkurs Java 2018 Florian Pix
 Freitags 4.DS (13:00 - 14:30)
 
 ## Links

@@ -1,13 +1,13 @@
 
 public class ElectricCar extends Vehicle{
 	float akkuKapazität;
-	boolean steuernZahlen = false;
 	
 	ElectricCar(String marke, float akkuKapazität){
 		super(marke);
 		
 		this.akkuKapazität = akkuKapazität;
 		this.anzahlRäder = 4;
+		this.steuernZahlen = false;
 	}
 	
 	public float getAkkuKapazität() {
