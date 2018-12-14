@@ -2,7 +2,7 @@
 Freitags 5.DS (14:30 - 15:00)
 
 Aktuelle Folien und Lösungen ab 07.12.2018 zu finden bei 
-https://github.com/RatedARRR/java-lessons
+https://github.com/B4ckslash/java-lessons
 
 ## Links
 [Übungen](http://fsr.github.io/java-lessons/about/)
