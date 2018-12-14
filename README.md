@@ -1,5 +1,8 @@
 # Programmierkurs Java 2018 Florian Pix
-Freitags 4.DS (13:00 - 14:30)
+Freitags 5.DS (14:30 - 15:00)
+
+Aktuelle Folien und Lösungen ab 07.12.2018 zu finden bei 
+https://github.com/RatedARRR/java-lessons
 
 ## Links
 [Übungen](http://fsr.github.io/java-lessons/about/)
